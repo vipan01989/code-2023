@@ -1,0 +1,116 @@
+https://www.youtube.com/watch?v=CqSnEiKnDpA
+
+SHA256:KrEB4CcoDo/7H+SVbR394pR0H9KNUYC0ohoyrDqVNfM vkumar@team.oculus-technologies.com
+
+git config --global user.name "vkumar"
+git config --global user.email "vkumar@team.oculus-technologies.com"
+
+$ ssh-keygen -t ed25519 -C "vkumar@team.oculus-technologies.com"
+ssh-keygen -t rsa -b 4096 -C "vkumar@team.oculus-technologies.com"
+ssh-keygen -o -t rsa -C "vkumar@team.oculus-technologies.com"
+
+/c/Users/Arun/.ssh/id_rsa_git_projects_key
+C:\Users\Arun/.ssh/id_rsa_git_projects_key
+
+git clone git@github.com:vkumarkaushal/nodejs-project.git
+git@github.com:vkumarkaushal/nodejs-project.git
+
+git clone https://myusername@restoftherepolink.git
+
+git remote set-url origin git@github.com:vkumarkaushal/Projects.git
+git remote set-url origin git@github.com:vkumarkaushal/Projects.git
+
+git remote
+
+git remote set-url origin git@github.com:vkumarkaushal/NodeJs.git
+
+
+1.git init
+
+2.git status
+
+3.git branch
+4.git checkout -b dev
+5.git checkout master  //  move to master
+
+6. git add 'test.txt'  git add .
+7. git commit -m "added test file"
+
+https://www.youtube.com/watch?v=XA9GJVlIZDU
+$ git --version
+Register user with git
+git config --global user.name "Durgesh"
+git config --global user.email "learncodewithdurgesh@gmail.com"
+user is successfully registered
+git config --list
+
+git config --global user.name "vkumar"
+git config --global user.email "vkumar@team.oculus-technologies.com"
+
+
+git init
+git config --global user.email "rkumar@team.oculus-technologies.com"
+git config --global user.name "rkumar-oculus"
+git remote add origin https://github.com/rkumar-oculus/Bosch.git
+git checkout -b theme
+git status
+git add .
+git commit -am "Latest inforu plugin for latest mautic version"
+git push origin branchname
+
+
+
+ssh-keygen -o -t rsa -C "vkumar@team.oculus-technologies.com"
+
+git remote clone git@github.com:vkumarkaushal/Projects.git
+
+ssh-keygen -t rsa -b 2048 "vkumar@team.oculus-technologies.com"
+
+
+
+
+1. ssh-keygen -o -t rsa -C "rkumar@team.oculus-technologies.com"
+2. add ssh key in git settings.
+3.Create folder in local system.
+4.Copy the ssh command from git: 
+git clone git@github.com:vkumarkaushal/my-projects.git
+
+5.git checkout -b branchname
+6.git status
+7.git add .
+8.git commit -am "added cyberint.com code on git"
+9.git push origin branchname
+
+
+Pull Command
+
+git pull origin branchname
+git config --local
+
+
+Change account 
+
+$ ssh-agent -s
+$ ssh-agent bash
+ssh-add ~/.ssh/id_rsa
+
+:qa! used to close editor
+
+
+
+https://therajanmaurya.medium.com/git-push-pull-with-two-different-account-and-two-different-user-on-same-machine-a85f9ee7ec61
+
+
+https://www.youtube.com/watch?v=ok3y4E5NEmw&list=PLriKzYyLb28nvORWgaD0hAbBcJUcsxy16
+
+
+
+
+
+
+
+
+
+
+
+
